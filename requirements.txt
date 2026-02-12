@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+faster-whisper
+deep-translator
+edge-tts
+python-multipart
